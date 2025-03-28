@@ -16,7 +16,7 @@ Get in touch!
 
 ## Projects
 
-Currently focused on **building a Happy Hour Finder** — an app designed to help you discover the best happy hours near you. TThe goal is to **one day** create a community-driven database of happy hour spots. At the moment, the goal is to finish building the core features and integrate the Google Maps API to make it easier to explore places visually.
+Currently focused on **building a Happy Hour Finder** — an app designed to help you discover the best happy hours around. The goal is to **one day** create a community-driven database of happy hour spots. At the moment, the goal is to finish building the core features and integrate the Google Maps API to make it easier to explore places visually.
 
 <p align="center">
   <a href="https://github.com/lollyca"><img src="https://github.com/lollyca/lollyca/blob/master/hhsketch.png" /></a>
